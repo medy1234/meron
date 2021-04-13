@@ -1,7 +1,7 @@
 {
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "https://github.com/medy1234/meron.git",
+  "homepage": "https://medy1234.github.io",
   "version": "2.0.0",
   "private": true,
   "author": {
@@ -10,8 +10,9 @@
     "url": "https://github.com/medy1234/meron.git"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.5.2",
+    "concurrently": "^6.0.2",
     "gh-pages": "^2.2.0",
     "jquery": "^3.5.1",
     "node-sass": "^4.14.1",
